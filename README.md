@@ -1,4 +1,24 @@
-LIVE DEMO: https://spaarsh.vercel.app
+# 💬 Privacy-First Real-Time Chat Application
+
+A full-stack **real-time chat application** built with the **MERN stack** and **WebSockets**, focused on **privacy-first communication**.  
+Users can communicate **without sharing phone numbers**, making it ideal for **college groups, hostels, societies, and events**.
+
+---
+
+## 🌐 Live Demo
+
+- **Website**: https://sparshsharma.vercel.app  
+- **Chat App**: https://chat-mmln.onrender.com  
+
+> ⚠️ Backend is hosted on **Render (free tier)** — first load may take **30–40 seconds** due to cold start.
+
+---
+
+## 📸 Preview
+
+<img src="https://github.com/sparshsharma81/sparshsharma81/blob/main/images/11-1.gif?raw=true" width="100%" />
+
+---
 
 ✔️ Features:
 
